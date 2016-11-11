@@ -4,7 +4,7 @@ Introductory Google Maps Tutorial
 Clone this repository, and follow along by adding these into the existing code base:  
 
 
-First we will add a stylesheet for the map, and include the script tag for Google Maps API. Note that the query parameter `key` should be the key you signed up for with Google (sign up with a key here: https://developers.google.com/maps/documentation/javascript/)
+First we will add a stylesheet for the map, and include the script tag for Google Maps API. Note that the query parameter `key` should be the key you signed up for with Google (sign up with a key here: https://developers.google.com/maps/documentation/javascript/
 ```html
 <link rel="stylesheet" href="map.css">
 
