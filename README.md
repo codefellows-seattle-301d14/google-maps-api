@@ -34,8 +34,9 @@ google.maps.event.addDomListener(window, 'resize', function() {
   google.maps.event.trigger(map, 'resize');
   map.setCenter(center);
 });
-
-// AFTER DEMOING THAT IT WORKS, ADD A MARKER:
+```
+After demoing that it works, add a marker!
+```js
 var marker = new google.maps.Marker({
   position: {lat: 47.618217, lng: -122.351832},
   map: map,
